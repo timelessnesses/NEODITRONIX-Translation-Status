@@ -1,4 +1,4 @@
-# NEODITRONIX-Translation-Status
+# NEODITRONIX Translation Status
 
 - English [![Translation status](http://weblate.translate.timelessnesses.me/widget/neoditronix/-/en/status-badge.png)]()
 - Chinese (Simplified) [![Translation status](http://weblate.translate.timelessnesses.me/widget/neoditronix/-/zh_Hans/status-badge.svg)]()
